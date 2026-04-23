@@ -53,10 +53,60 @@ geo3tech/
 │   └── js/
 │       └── main.js        # Lógica JavaScript da aplicação
 │
-└── README.md              # Este arquivo
+├── node_modules/          # Dependências instaladas
+├── README.md              # Este arquivo
+└── .gitignore             # Configuração de arquivos ignorados
 ```
 
-   Acesse em `geo3tech.com.br`
+---
+
+## 🚀 Como Executar Localmente
+
+### Pré-requisitos
+
+Certifique-se de ter instalado em sua máquina:
+
+- **Node.js** (versão 16.0 ou superior)
+- **npm** ou **yarn**
+
+### Passos de Instalação
+
+1. **Clone o repositório**
+   ```bash
+   git clone https://github.com/igor-vasconcellos/geo3tech.git
+   cd geo3tech
+   ```
+
+2. **Instale as dependências**
+   ```bash
+   npm install
+   ```
+
+3. **Inicie o servidor de desenvolvimento**
+   ```bash
+   npm run dev
+   ```
+
+   O site será aberto automaticamente em `http://localhost:5173` (ou a porta indicada no terminal)
+
+4. **Para visualizar em produção**
+   ```bash
+   npm run build
+   npm run preview
+   ```
+
+   Isso gera uma versão otimizada do projeto na pasta `dist/`
+
+---
+
+## 📊 Scripts Disponíveis
+
+| Comando | Descrição |
+|---------|-----------|
+| `npm run dev` | Inicia o servidor de desenvolvimento com hot reload |
+| `npm run build` | Compila o projeto para produção |
+| `npm run preview` | Visualiza a versão de produção localmente |
+| `npm run lint` | Executa verificação de código com ESLint |
 
 ---
 
@@ -113,3 +163,22 @@ O projeto serve como referência técnica e criativa para possíveis colaboraç�
 
 **Igor Vasconcellos**  
 Especialista em Desenvolvimento Web | Full Stack JavaScript
+
+📧 Contato: [Entre em contato via GitHub](https://github.com/igor-vasconcellos)
+
+---
+
+## 📄 Licença
+
+Este projeto é fornecido como é, para fins de portfólio e demonstração de habilidades.  
+Todos os direitos reservados © 2026 Geo3Tech
+
+---
+
+## 🤝 Contribuições
+
+Se você tem sugestões ou encontrou algum problema, sinta-se à vontade para abrir uma issue ou pull request.
+
+---
+
+**Desenvolvido com ❤️ e dedicação ao detalhe.**
