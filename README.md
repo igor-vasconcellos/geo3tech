@@ -56,7 +56,7 @@ geo3tech/
 └── README.md              # Este arquivo
 ```
 
-   O site será hospedado em breve em `geo3tech.com.br` (ou a porta indicada no terminal)
+   O site será hospedado em breve em `geo3tech.com.br`
 
 ---
 
@@ -76,11 +76,6 @@ geo3tech/
 - Botões de CTA direcionados para WhatsApp Business
 - Mensagens pré-configuradas para facilitar o contato
 - Links estrategicamente posicionados
-
-### 📱 Mobile-First Responsive
-- Adaptação perfeita para smartphones, tablets e desktops
-- Touch-friendly interface
-- Performance otimizada para conexões 3G/4G
 
 ---
 
