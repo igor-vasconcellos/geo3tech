@@ -92,7 +92,6 @@ Abaixo estão as melhorias previstas para próximas versões:
 - [ ] Blog institucional com artigos sobre geotecnologia
 - [ ] Versão em múltiplos idiomas
 - [ ] Dark mode para interface
-- [ ] PWA (Progressive Web App) offline
 
 ---
 
