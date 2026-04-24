@@ -2,7 +2,7 @@
 
 ## 📋 Descrição do Projeto
 
-O Geo3Tech é uma landing page moderna e responsiva desenvolvida para a empresa Geo3Tech, especializada em soluções geotecnológicas. O site foi estruturado com foco em **captação de clientes** e **apresentação institucional**, utilizando estratégias de design e interação para gerar contatos qualificados via WhatsApp.
+Uma landing page moderna e responsiva desenvolvida para a empresa Geo3Tech, especializada em soluções geotecnológicas. O site foi estruturado com foco em **captação de clientes** e **apresentação institucional**, utilizando estratégias de design e interação para gerar contatos qualificados via WhatsApp.
 
 Este projeto demonstra a integração de tecnologias modernas com práticas consolidadas de desenvolvimento web, criando uma experiência do usuário intuitiva e profissional.
 
@@ -56,7 +56,7 @@ geo3tech/
 └── README.md              # Este arquivo
 ```
 
-   O site será hospedado em breve em `geo3tech.com.br`
+   Acesse em `geo3tech.com.br`
 
 ---
 
